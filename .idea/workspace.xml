@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0bc63e92-2ac4-41ac-82f2-f37069059dfc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_actions/Resume.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_actions/create.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_actions/delete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_actions/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_actions/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_actions/photos/Resume.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_actions/populate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_actions/role.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_actions/suspend.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_actions/unsuspend.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_actions/upload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_classes/Helpers/Auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_classes/Helpers/HTTP.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_classes/Libs/Database/MySql.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_classes/Libs/Database/UsersTable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/profile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/register.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 8.0">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/fakerphp/faker" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1nhwWj06Kz5EfuwnqKg3HrX6YIf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.PHP" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Aung\Documents\XAMPP\htdocs\project\js" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.php">
+    <configuration name="UsersTable.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/project/Database/UsersTable.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="admin.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/project/admin.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/user-profile/index.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="login.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/project/_actions/login.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="populate.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/project/_actions/populate.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.php" />
+        <item itemvalue="JavaScript Debug.admin.php" />
+        <item itemvalue="JavaScript Debug.login.php" />
+        <item itemvalue="JavaScript Debug.UsersTable.php" />
+        <item itemvalue="JavaScript Debug.populate.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0bc63e92-2ac4-41ac-82f2-f37069059dfc" name="Default Changelist" comment="" />
+      <created>1611855663711</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611855663711</updated>
+      <workItem from="1611855664911" duration="5545000" />
+      <workItem from="1611898453627" duration="595000" />
+      <workItem from="1611940344499" duration="3078000" />
+      <workItem from="1611982526618" duration="7485000" />
+      <workItem from="1612009376252" duration="10122000" />
+      <workItem from="1612024482113" duration="16000" />
+      <workItem from="1612024522014" duration="140000" />
+      <workItem from="1612024681339" duration="333000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

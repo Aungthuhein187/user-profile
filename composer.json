@@ -1,0 +1,18 @@
+{
+    "name": "aung/project",
+    "authors": [
+        {
+            "name": "Aung Thu Hein",
+            "email": "aungthuhein187@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Libs\\" : "_classes/Libs",
+            "Helpers\\" : "_classes/Helpers"
+        }
+    },
+    "require": {
+        "fakerphp/faker": "^1.13"
+    }
+}
