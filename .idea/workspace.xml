@@ -2,36 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bc63e92-2ac4-41ac-82f2-f37069059dfc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_actions/Resume.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_actions/create.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_actions/delete.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_actions/login.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_actions/logout.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_actions/photos/Resume.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_actions/populate.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_actions/role.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_actions/suspend.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_actions/unsuspend.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_actions/upload.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_classes/Helpers/Auth.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_classes/Helpers/HTTP.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_classes/Libs/Database/MySql.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_classes/Libs/Database/UsersTable.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/profile.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/register.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,8 +86,16 @@
       <workItem from="1612009376252" duration="10122000" />
       <workItem from="1612024482113" duration="16000" />
       <workItem from="1612024522014" duration="140000" />
-      <workItem from="1612024681339" duration="333000" />
+      <workItem from="1612024681339" duration="507000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1612025150656</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612025150656</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
